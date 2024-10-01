@@ -6,7 +6,7 @@ import java.lang.Math;
 public class Main {
     public static void main(String[] args)
     {
-        var divider = "-------------------------------------";
+        String divider = "-------------------------------------";
 
         System.out.println(divider);
         System.out.println("Задача #1");
